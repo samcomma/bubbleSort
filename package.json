@@ -1,0 +1,17 @@
+{
+  "name": "bubble_sort",
+  "version": "1.0.0",
+  "main": "bubblesort.js",
+  "scripts": {
+    "test": "nodemon ./node_modules/mocha/bin/mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0",
+    "sinon": "^6.1.3"
+  }
+}
